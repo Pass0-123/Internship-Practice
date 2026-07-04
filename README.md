@@ -1,7 +1,10 @@
 Hi, I'm Kiran Krushnatrao Patil
 
+Pussuing Master of Computer Science (MCS)
+
 College Name:
 G H raisoni College of Arts Commerse and Science Wagholi, Pune
+
 Domain:
 Data Analytics | Business Intelligence | Data Visualization
 
