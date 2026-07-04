@@ -1,6 +1,7 @@
+Hi, I'm Kiran Krushnatrao Patil
 College Name:
 G H raisoni College of Arts Commerse and Science Wagholi, Pune
-📊 Domain:
+Domain:
 Data Analytics | Business Intelligence | Data Visualization
 
 💻 Skills:
